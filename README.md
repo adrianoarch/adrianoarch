@@ -3,7 +3,6 @@
 
 
 - 🖥️ Em transição de carreira para Desenvolvimento Web, e muito empolgado com isso!!!
-- 🔭 Atualmente trabalho na Sudesb - Sup. Desportos Estado da Bahia (suporte).
 - 🌱 Estudando HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.
 - 👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 😍 Apaixonado pela minha linda Ane, há 14 anos.
