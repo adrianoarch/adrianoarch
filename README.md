@@ -1,8 +1,7 @@
-### Olá, eu sou o Adriano de Oliveira, futuro programador web, full stack. 👋
 ### Bem vindo ao meu perfil no Github
 
 
-- 🖥️ Em transição de carreira para Desenvolvimento Web, e muito empolgado com isso!!!
+- 🖥️ Desenvolvedor Front End Web, e muito empolgado com isso!!!
 - 🌱 Estudando HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.
 - 👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 😍 Apaixonado pela minha linda Ane, há 14 anos.
