@@ -1,8 +1,8 @@
 ### Bem vindo ao meu perfil no Github
 
 
-- 🖥️ Desenvolvedor Front End Web, e muito empolgado com isso!!!
-- 🌱 Estudando HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.
+- 🖥️ Desenvolvedor Web Full Stack
+- 🌱 PHP | Laravel | JavaScript | Mysql | Bootstrap | Html | Css
 - 👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 😍 Apaixonado pela minha linda Ane, há 14 anos.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18px" height="18px"/> Outra paixão é o Linux. Minha distro favorita hoje em dia é o Arch Linux, que utilizo há 5 anos.
@@ -14,13 +14,15 @@
 </div>
  
   <div style="display: inline_block"><br>
+  
+  <img align="center" alt="AdrianoDev-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="AdrianoDev-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="AdrianoDev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AdrianoDev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="AdrianoDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AdrianoDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AdrianoDev-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="AdrianoDev-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="AdrianoDev-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="AdrianoDev-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
 </div>
  
   
